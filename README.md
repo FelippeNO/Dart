@@ -11,3 +11,4 @@ Instruções:
 
 Exemplo (10):
 print('Somatória: ${somatoria(10)}'); // Digitar um valor inteiro positivo no lugar
+A resposta retornada deverá ser 23.
